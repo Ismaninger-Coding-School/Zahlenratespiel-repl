@@ -15,6 +15,6 @@ Anleitung
 8. Gib ein bei `value` dein langes verschlüsseltes Passwort (beginnend mit `argon2...`)
 9. Klicke auf `Add new secret`
 10. Starte das repl mit dem grünen `RUN` button in der Mitte deines Bildschirms oben
-11. Öffne die jupyter Webseite in einem neuen Broswer Fenster indem Du auf das Kästchen mit dem Pfeil
+11. Öffne die jupyter Webseite in einem neuen Broswer Fenster indem Du auf das Kästchen mit dem Pfeil klickst im Fenster rechts oben :point_up:
 13. Log dich ein mit deinem Passwort `ics2022`
 14. Nach dem Login dort kannst Du auf die Datei `zahlenratespiel.ipynb` klicken. Dann gehts schon los :smile:
